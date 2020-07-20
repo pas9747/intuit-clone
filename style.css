@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(236, 238, 241) ;
+    display: grid;
+    grid-template-rows: 1fr;
+    justify-content: center;
+}
+
+
+/* body > * {
+    
+} */
+
+/* header {
+    grid-row: 1;
+}
+
+div {
+    grid-row
+} */
+
+
