@@ -3,7 +3,7 @@ This is a clone of the intuit login page
 
 ## Screenshot
 
-![screenshot](.screenshot.png)
+![screenshot](screenshot.png)
 
 ## Live Demo
 
