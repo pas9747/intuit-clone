@@ -45,8 +45,7 @@ body{
     width: 65px;
     background-image: url(./image.png);
     background-position: -252px -40px;
-    
-    
+    border-width: 50x;  
 }
 
 .lock-svg{
@@ -113,6 +112,8 @@ body{
     font-style: normal;
     margin-right: 30px;
     margin-left: 30px;
+    border-width: 3px;
+    border-color: rgb(0, 0, 0);
 
 }
 
@@ -259,11 +260,7 @@ body{
     grid-template-rows: 1fr;
     grid-template-columns: auto auto auto auto;
     grid-gap: 1px;
-    padding: 20px;
-    
-
-
-    
+    padding: 20px;    
 }
 .captcha{
     
